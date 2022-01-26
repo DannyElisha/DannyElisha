@@ -1,4 +1,4 @@
-# Hotel Management System
+# Coupon Management System
  Full-Stack Project Based in Spring & React
 
 Coupon Management System: Final project by Shachaf Izhaki & Idan Elisha. 
